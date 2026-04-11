@@ -1,0 +1,8 @@
+2026-04-11
+* git国内访问受限，经常访问不了
+* 必须要在github上create一个仓库，然后本地要git config一下name和email
+* 然后本地git init后要git remote连接一下你得仓库
+* 然后你想push vscode还要你本地git授权一下
+* 要想一键commit/push要改下vscode配置
+* 在源码管理页面提交完文件就成readonly了
+
