@@ -5,6 +5,6 @@
 * 然后你想push vscode还要你本地git授权一下
 * 要想一键commit/push要改下vscode配置
 * 在源码管理页面提交完文件就成readonly了
-* MIMO:origin 只是 git clone
-  时自动给的一个默认名字，没有特殊含义。你完全可以 
-  把它改成别的，或者再加一个叫 tips 的。
+* （MIMO）origin只是默认名，没有特殊含义，可以叫tips无所谓
+* 改了hosts反而彻底连不上了
+
